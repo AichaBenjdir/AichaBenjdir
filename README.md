@@ -1,46 +1,57 @@
-<h2 align="left">Je suis développeuse FullStack Java, passionnée par les nouvelles technologies et l'univers du numérique.</h2>
+# Aicha Benjdir - Conceptrice Développeuse Fullstack Web et Mobile
 
-###
+Bienvenue sur mon profil GitHub ! 👩‍💻
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+Je suis une **développeuse en formation** avec une passion pour le développement web et mobile. Actuellement, je suis en cours de formation dans le cadre du programme **10000 Codeurs** pour devenir **conceptrice développeuse fullstack web et mobile**. Je suis déterminée à développer des applications performantes, évolutives et intuitives, en utilisant les technologies les plus récentes dans le domaine du développement logiciel.
 
-###
+## 📚 À propos de moi
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
+- **Nom**: Aicha Benjdir
+- **Formation**: Conception et développement Fullstack Web et Mobile avec 10000 Codeurs
+- **Passion**: Développement web, développement mobile, technologies modernes
+- **Objectif**: Créer des applications robustes et centrées sur l'utilisateur, avec un focus particulier sur les solutions web et mobiles.
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 2. **Mon Portfolio Personnel**
+**Description** :  
+Un site web personnel pour présenter mes projets et compétences en développement web. Ce portfolio est développé avec **HTML**, **CSS** et **JavaScript**.
 
-###
+**Technologies utilisées** :
+- **HTML5** pour la structure du site
+- **CSS3** pour la mise en forme et la responsivité
+- **JavaScript** pour les interactions dynamiques
+
+**Lien vers le projet** : [Portfolio Personnel](https://github.com/AichaBenjdir/Mon_Portfolio)
+
+---
+
+## 🔧 Technologies & Compétences
+
+Voici un aperçu des technologies avec lesquelles je travaille actuellement :
+
+- **Frontend** : HTML5, CSS3, JavaScript, Angular
+- **Backend** : Java
+- **Développement Mobile** : Flutter
+- **Bases de données** : MySQL
+- **Outils** : Git, GitHub, Visual Studio Code, Postman
+
+---
+
+## 📝 Objectifs
+
+- **Devenir experte en développement fullstack** et acquérir des compétences solides en développement web et mobile.
+- **Travailler sur des projets réels** pour appliquer mes compétences en JavaScript, Java, et développement mobile.
+- **Maîtriser les meilleures pratiques** en développement logiciel et architecture d'applications.
+- **Explorer de nouvelles technologies** et améliorer mes compétences en développement mobile avec  **Flutter**.
+
+---
+
+## 📫 Contact
+
+Vous pouvez me contacter par e-mail ou sur LinkedIn :
+
+- **E-mail** : aicha.benjdir@isimg.tn
+- **LinkedIn** : https://www.linkedin.com/in/a%C3%AFcha-benjdir/
+
+Merci de visiter mon profil, n'hésitez pas à me suivre pour découvrir mes projets à venir ! 🚀
