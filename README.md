@@ -22,7 +22,7 @@ Un site web personnel pour présenter mes projets et compétences en développem
 - **CSS3** pour la mise en forme et la responsivité
 - **JavaScript** pour les interactions dynamiques
 
-**Lien vers le projet** : [Portfolio Personnel](https://github.com/AichaBenjdir/Mon_Portfolio)
+**Lien vers le projet** : [Portfolio Personnel](https://mon-portfolio-online.netlify.app/)
 
 ---
 
