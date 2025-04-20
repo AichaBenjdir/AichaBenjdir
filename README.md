@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Aicha Benjdir - Conceptrice Développeuse Fullstack Web et Mobile</h3>
+<h3 align="left">👩‍💻  Aicha Benjdir - Développeuse Fullstack Web et Mobile</h3>
 
 ###
 
