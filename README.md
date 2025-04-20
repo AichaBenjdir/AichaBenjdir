@@ -54,15 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-###
 
-## 🔥 Mes Statistiques :
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aichabenjdir&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aichabenjdir&theme=radical" alt="GitHub Streak Stats" />
-  <br />
- 
-</div>
-###
+
